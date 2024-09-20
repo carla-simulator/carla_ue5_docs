@@ -1,6 +1,9 @@
 # CARLA Unreal Engine 5 Documentation
 
-Welcome to the CARLA documentation.
+Welcome to the CARLA Unreal Engine 5 documentation.
+
+!!! note
+    This version of the documentation refers exclusively to the version of the CARLA simulator built on the Unreal Engine 5.3. If you are using CARLA Unreal Engine 4.26 version, please go [to the correct documentation for this version](https://carla.readthedocs.org).
 
 This home page contains an index with a brief description of the different sections in the documentation. Feel free to read in whatever order preferred. In any case, here are a few suggestions for newcomers.
 
