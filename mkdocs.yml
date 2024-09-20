@@ -58,4 +58,8 @@ nav:
  
 markdown_extensions:
   - admonition 
+
+theme:
+  name: 'readthedocs'
+  logo: img/logo/carla_logo_black.png
  
