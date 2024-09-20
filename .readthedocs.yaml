@@ -14,9 +14,6 @@ build:
 mkdocs:
   configuration: mkdocs.yml
 
-sphinx:
-  configuration: conf.py
-
 # Optionally declare the Python requirements required to build your docs
 
 python:
