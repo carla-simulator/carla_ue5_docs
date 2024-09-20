@@ -62,4 +62,10 @@ markdown_extensions:
 theme:
   name: 'readthedocs'
   logo: img/logo/carla_logo_black.png
+  palette:
+        # Dark mode
+    - scheme: slate
+      primary: blue
+      accent: blue
+      toggle:
  
